@@ -2,7 +2,7 @@
 an Automatic command handler for discord.js
 
 ## WARNING
-This module doesn't supports discord.js v13 or above
+This module doesn't support discord.js v13 or above
 
 Please use discord.js v12 (npm i discord.js@12.5.3)
 
